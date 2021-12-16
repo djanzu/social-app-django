@@ -1,2 +1,2 @@
-# social-auth-core >= 4.1.0
-git+https://github.com/djanzu/social-core.git
+social-auth-core >= 4.1.0
+# git+https://github.com/djanzu/social-core.git
